@@ -4,8 +4,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/hussain-al-zadjali-10a6a6221"><img width="9%" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev-zoo.com"><img width="7%" alt="dev-zoo" title="Hussain Al-zadjali dev-zoo" src="https://img.shields.io/badge/Dev%20Point-%23E4405F.svg?logo=Dev&logoColor=white"></a>
-
+<!--   <a href="https://dev-zoo.com"><img width="7%" alt="dev-zoo" title="Hussain Al-zadjali dev-zoo" src="https://img.shields.io/badge/Dev%20Point-%23E4405F.svg?logo=Dev&logoColor=white"></a>
+ -->
 </p>
 
 <br/>
