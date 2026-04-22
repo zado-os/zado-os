@@ -1,4 +1,4 @@
-<img src="./assets/pxfuel.jpg" width="100%" alt="Hussain Al Zadjali banner" />
+<img src="./assets/alt.jpg" width="100%" alt="Hussain Al Zadjali banner" />
 
 <h1 align="center">⚡ Hussain Al Zadjali ⚡</h1>
 <p align="center"><strong>Software Engineer • Full-Stack Builder • Relentless Creator</strong></p>
