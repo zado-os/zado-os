@@ -1,67 +1,91 @@
-<img src="./assets/pxfuel.jpg" width="100%" height="auto"/>
-<p align="center">
-  <a href="https://instagram.com/elo3q"><img width="10%" alt="instagram" title="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/hussain-al-zadjali-10a6a6221"><img width="9%" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://dev-zoo.com"><img width="7%" alt="dev-zoo" title="Hussain Al-zadjali dev-zoo" src="https://img.shields.io/badge/Dev%20Point-%23E4405F.svg?logo=Dev&logoColor=white"></a>
- -->
-</p>
+<img src="./assets/pxfuel.jpg" width="100%" alt="Hussain Al Zadjali banner" />
 
-<br/>
-
-<p>
-  
-# 💫 About Me:
-🔭 I'm currently working on Awasr<br>🌱 I'm Looking for learning all the time<br>💬 Ask me about anything !!<br>⚡ One piece Lover
-
-
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-<!-- - 👨‍💻 All of my projects are available at [dev-zoo.com](https://www.dev-zoo.com/)-->
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **zado-os@outlook.com**
-
-</details>
-  
-</p>
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
-
-## 🔥 Github Stats
-
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
-
- ![](https://github-readme-stats.vercel.app/api?username=zado-os&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zado-os&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zado-os&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zado-os&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zado-os&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<h1 align="center">Hi, I'm Hussain Al Zadjali 👋</h1>
+<p align="center"><strong>Software Engineer • Full-Stack Developer • Community Builder</strong></p>
 
 <p align="center">
-<a href="#">Dev-point Hussain Al-zadjali</a>
+  <a href="https://instagram.com/elo3q">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hussain-al-zadjali-10a6a6221">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zado-os@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## About Me
+
+- Building impactful software products and practical solutions.
+- Passionate about clean architecture, UI/UX quality, and performance.
+- Open to collaboration on open-source and product-focused projects.
+- Anime fan (`One Piece` forever).
+
+<details>
+  <summary><strong>More about me</strong></summary>
+  <br/>
+
+- Currently working on real-world software initiatives.
+- Constant learner: engineering, product thinking, and leadership.
+- Enjoy helping teams grow through community and collaboration.
+- I value reliability, ownership, and shipping quality.
+
+</details>
+
+---
+
+## Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Databases
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Mobile / Game / Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-20232a?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-20232a?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=zado-os&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=zado-os&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zado-os&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+## Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=zado-os&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+
+---
+
+<p align="center"><strong>“Build with purpose. Ship with quality.”</strong></p>
