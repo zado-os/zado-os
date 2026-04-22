@@ -76,15 +76,34 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=zado-os&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com?user=zado-os&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zado-os&theme=tokyonight&hide_border=true&layout=compact)
+> If stats are not showing, make sure this README is in `zado-os/zado-os` (profile repo), not a normal project repo only.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=zado-os&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=zado-os&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zado-os&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=zado-os&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="49%" />
+</p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=zado-os&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=zado-os&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=zado-os&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4)
+
+---
+
+## Quick Facts
+
+- 👨‍💻 Main focus: building production-ready full-stack solutions.
+- 🧠 Strong in problem-solving, product thinking, and clean architecture.
+- 🤝 Open to collaboration and impactful open-source projects.
+- 📫 Reach me: **zado-os@outlook.com**
 
 ---
 
